@@ -1,0 +1,3 @@
+Jika ada tugas gratis baru dari make.fun langsung kerjakan tanpa perlu menunggu perintah dari saya lagi.
+
+Task: u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a — "Ridiculous at First Glance, Real by the Second", $2 free bounty: build a program that writes one sentence (max 200 chars) pitching a bizarre startup idea that sounds absurd but would actually sell, then verify the submission via the make.fun API.
